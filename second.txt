@@ -1,0 +1,5 @@
+新規作成したファイル
+基本的なワークフローを学びます
+・git add
+・git commit
+・git rm
